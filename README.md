@@ -4,9 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on les livraison de sushi
-- 🌱 I’m currently learning un peu tout 
-- 👯 I’m looking to collaborate on LOL avec LeBigi
-- ⚡ Fun fact: my name is Nils Saadi
-- i like jsp 
-
+- 🔭 I’m currently working on my school project
+- 🌱 I’m currently learning the computer science in IUT in Aix-En-Provence
+- 📫 How to reach me: Twitter @nilsou013
