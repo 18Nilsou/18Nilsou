@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is Nils Saddi and I'm  a first-year engineering student at IMT Mines Alès, from France</h2>
+<h2 align="left">Hi 👋! My name is Nils Saadi</h2>
+<h3align="left">I'm a student at the engineering school IMT Mines Alès, majoring in computer science with a minor in software development. I also work as a dev-ops engineer for Petroineos as part of a work-study program.</h3>
+
+###
+
+🔭 I’m currently working on PedoPot
+<br>
+🌱 I’m currently try to learn quantum programming (and quantum physics/mechanics) in autodidtact
 
 ###
 
