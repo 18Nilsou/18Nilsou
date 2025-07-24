@@ -3,10 +3,6 @@
 
 ###
 
-🔭 I’m currently working on <a href="https://github.com/PedoPot">PedoPot </a>
-<br>
-🌱 I’m currently try to learn quantum programming (and quantum physics/mechanics) in autodidtact
-
 ###
 
 <div align="center">
