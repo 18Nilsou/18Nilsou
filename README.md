@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Nils Saadi</h2>
-<h3align="left">I'm a student at the engineering school IMT Mines Alès, majoring in computer science with a minor in software development. I also work as a dev-ops engineer for Petroineos as part of a work-study program.</h3>
+<h3align="left">I'm a student at the engineering school IMT Mines Alès, majoring in computer science and network with a minor in software development. I also work as a dev-ops engineer for Petroineos as part of a work-study program.</h3>
 
 ###
 
