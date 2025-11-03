@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Nils+Saadi;Computer+Science+Student;DevOps+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🎓 Engineering Student @ IMT Mines Alès | 💼 DevOps Engineer @ Petroineos</h3>
+<h3 align="center">🎓 Engineering Student IMT Mines Alès | 💼 DevOps Engineer Petroineos</h3>
 
 <p align="center">
   <em>Passionate about computer science, networking, and software development. Currently pursuing my engineering degree while gaining hands-on experience in DevOps through a work-study program.</em>
