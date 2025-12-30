@@ -10,19 +10,6 @@
 
 ###
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=18Nilsou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=10" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=18Nilsou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&border_radius=10" height="170" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=18Nilsou&theme=dracula&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</div>
-
-###
-
 <img align="right" height="170" src="https://media1.tenor.com/m/8I_13j-yo0UAAAAC/initiald-car.gif"  />
 
 ## 💻 Tech Stack
