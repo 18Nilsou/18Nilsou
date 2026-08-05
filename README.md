@@ -56,5 +56,5 @@
 ---
 
 <div align="center">
-  <em>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</em>
+  <em>I just want to touch the grass and explore the world.</em>
 </div>
